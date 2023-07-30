@@ -3,6 +3,10 @@ body {
     font-family: Arial, Helvetica, sans-serif;
 }
 
+.navbar {
+    background-color: darkseagreen;
+}
+
 /* The dropdown box */
 #navbarSupportedContent {
     background-color: darkseagreen;
